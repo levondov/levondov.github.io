@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Levon Dovlatyan</title>
+    <link href="index_stylesheet.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="wrapper">
+    
+	<div id="header">
+		<div id="nav"><a href="index.html">Home</a> | <a href="research.html">Research</a> | <a href="contact.html">Contact</a> | <a href="cv.html">CV</a> </div>
+		<div id="bg"></div>
+	</div>
+	
+	<div id="main-content">
+		<div id="left-column">
+			<div id="logo">
+			Coming Soon!
+			</div>
+
+		</div>
+		<div id="right-column">
+		</div>
+	</div>
+	<div id="footer">
+		Copyright &copy; 2015 Levon Dovlatyan. All rights reserved.<br/>
+		Layout adapted from <a href="http://www.web-designers-directory.org/" target="_blank">Web Designers' Directory</a>.
+	</div>
+</div>
+
+</body>
+</html>
