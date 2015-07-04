@@ -37,16 +37,12 @@ p {
 	text-align:center;
 }
 
-#left-column {
-	width:350px;
+#main-column {
+	width:640px;
 	padding:0 30px 30px;
 	float:left;
 }
 
-#right-column {
-	width:270px;
-	float:right;
-}
 
 .sidebar {
 	width:218px;
@@ -104,10 +100,6 @@ ul {
 	padding:0;
 	margin:0 0 0 17px;
 	list-style:square url('http://img525.imageshack.us/img525/1890/bulletr.gif');
-}
-
-li {
-	font-size:125;
 }
 
 
