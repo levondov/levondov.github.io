@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Levon&#39;s Grad School App</title>
+    <title>Levon&#39;s Website</title>
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/github-light.css">
@@ -19,7 +19,6 @@
         
         <p class="view">
         <h3> Contact</h3>
-        Levon Dovlatyan </br>
         1 (818) - 319 - 3707 </br>
         levondov@berkeley.edu </br>
         ldovlatyan@lbl.gov </br>
