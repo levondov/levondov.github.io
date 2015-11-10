@@ -1,76 +1,73 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-<head>
-    <title>Levon Dovlatyan</title>
-    <link href="index_stylesheet.css" rel="stylesheet" type="text/css" />
-</head>
-<body>
-<div id="wrapper">
-    
-	<div id="header">
-		<div id="nav"><a href="index.html">Home</a> | <a href="research.html">Research</a> | <a href="contact.html">Contact</a> | <a href="cv.html">CV</a> </div>
-		<div id="bg"></div>
-	</div>
-	
-	<div id="main-content">
-		<div id="left-column">
-			<div id="logo">
-			Levon Dovlatyan
-			</div>
-			<!-- <div class="box">
-        		<h1>What You'll Find Here</h1>
-        		<p>This is my space. Here are some of my interests: </p>
-				<ul style="margin-top:10px;">
-					<li>Saying "That's what she said"</li>
-					<li>Writing song parodies</li>
-					<li>Playing ice hockey</li>
-					<li>Wearing jeans</li>
-					<li>Chrysler cars</li>
-				</ul>
-			</div> -->
-			<h2>Current Research</h2>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Levon&#39;s Grad School App</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Levon Dovlatyan</h1>
+        
+        <p class="view">
+        <h3> Contact</h3>
+        Levon Dovlatyan </br>
+        1 (818) - 319 - 3707 </br>
+        levondov@berkeley.edu </br>
+        ldovlatyan@lbl.gov </br>
+        levondovl@gmail.com </br>
+        <a href="Levon_Dovlatyan_CV.pdf" target="_black"> CV (PDF) </a>
+        </p>
+        
+        <p><iframe src="http://controls.als.lbl.gov/als-beamstatus/site/alsstatus_alsweb" width="800px" height="650px" ></iframe></p>
+        <br><br>
+
+
+
+
+      </header>
+      <section>
+
+<h3><a id="creating-pages-manually" class="anchor" href="#creating-pages-manually" aria-hidden="true"><span class="octicon octicon-link"></span></a>Welcome!</h3>
+
+<p> Hi! My name is Levon and I am currently a 4th year at UC Berkeley studying applied physics. 
+				I also do research in accelerator physics and am currently working within the AP and controls groups at the ALS.</p>
+
+<h3>
+<a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>Current Research</h3>
+
 			<p> 
 			<ul>
 				Recently the ALS has began the process of upgrading its BPMs. These new BPMs will have the capability 
-				to measure turn-by-turn (TBT) data. Currently about 40 have been installed in the storage ring. I am researching the possible applications of the TBT data from these BPMs. To list a few possibilities: <br>
+				to measure turn-by-turn (TBT) data. Currently about 40 have been installed in the storage ring. I am researching the possible applications of the TBT data from these BPMs. To list a few possibilities: <br> <br>
 				<li>
 					Faster tune measurements using mixed TBT BPM data. Current tune measurements only use a single BPM and require many turns. BY using all the BPMs strung together one can get several data points within a single turn and measure a tune value within 2 turn!
-				</li>
+				</li> <br>
 				<li>
 					Calculating phase advances and the beta function using TBT BPM data. Certain techniques allow for the measurement of phase advances between BPMs using only 3 adjacent BPMs. From these phase advances one can get an approximate measurement of the beta function.
-				</li>
+				</li> <br>
 				<li>
 					Using model independent analysis (MIA) techinques to surprise BPM resolution limits. With TBT BPM data one can construct a BPM matrix and break it down using a single value decomposition (SVD). The SVD can then be used to reduce the noise levels in the BPMs and further improve their resolutions.
-				</li>
+				</li> <br>
 			</ul>
 			</p>
-			<p2>
-				<iframe src="http://controls.als.lbl.gov/als-beamstatus/site/alsstatus_alsweb" width="800px" height="650px" ></iframe>
-			</p2>
-		</div>
-		<div id="right-column">
-			<div id="main-image"><img src="http://i.imgur.com/9FJkJFk.jpg
-" width="160" height="188" /></div>
-			<div class="sidebar">
-				<h3>About Me</h3>
-				<p>Hi! My name is Levon and I am currently a 4th year at UC Berkeley studying applied physics. 
-				I also do research in accelerator physics and am currently working within the AP group at the ALS.</p>
-				<h3>Links</h3>
-				<div class="box">
-					<ul>
-						<li><a href="https://github.com/levondov/" target="_blank">Github</a></li>
-						<li><a href="https://www.youtube.com/user/strickend666" target="_blank">Youtube</a></li>
-						<li><a href="https://www.linkedin.com/pub/levon-dovlatyan/8a/246/aaa" target="_blank">LinkedIn (old)</a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div id="footer">
-		Copyright &copy; 2015 Levon Dovlatyan. All rights reserved.<br/>
-		Layout adapted from <a href="http://www.web-designers-directory.org/" target="_blank">Web Designers' Directory</a>.
-	</div>
-</div>
 
-</body>
+      </section>
+      <footer>
+        <p>This project is maintained by <a href="https://github.com/levondov">levondov</a><br>
+        <small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
 </html>
